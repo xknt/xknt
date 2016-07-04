@@ -3,8 +3,32 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - DataBase", "01 - DataBase", "{419D4485-C0DB-4597-BE8D-FD2B732064E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0101 - DB", "0101 - DB", "{9E63932A-7AB8-4F07-A098-5BF6B3B51F12}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "XKNT.DB", "XKNT.DB\XKNT.DB.sqlproj", "{19BBEA2F-7BA8-447A-9C30-AEEDC3CA955A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Source", "02 - Source", "{AFD419E4-8A72-4A8C-B6B6-C346EB61B3ED}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19BBEA2F-7BA8-447A-9C30-AEEDC3CA955A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19BBEA2F-7BA8-447A-9C30-AEEDC3CA955A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19BBEA2F-7BA8-447A-9C30-AEEDC3CA955A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{19BBEA2F-7BA8-447A-9C30-AEEDC3CA955A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19BBEA2F-7BA8-447A-9C30-AEEDC3CA955A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19BBEA2F-7BA8-447A-9C30-AEEDC3CA955A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9E63932A-7AB8-4F07-A098-5BF6B3B51F12} = {419D4485-C0DB-4597-BE8D-FD2B732064E5}
+		{19BBEA2F-7BA8-447A-9C30-AEEDC3CA955A} = {9E63932A-7AB8-4F07-A098-5BF6B3B51F12}
 	EndGlobalSection
 EndGlobal
