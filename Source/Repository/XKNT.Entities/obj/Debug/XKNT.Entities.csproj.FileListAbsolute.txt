@@ -1,0 +1,4 @@
+D:\个人文件\项目\希奎科技\XKNT\Source\Repository\XKNT.Entities\bin\Debug\XKNT.Entities.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Repository\XKNT.Entities\bin\Debug\XKNT.Entities.pdb
+D:\个人文件\项目\希奎科技\XKNT\Source\Repository\XKNT.Entities\obj\Debug\XKNT.Entities.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Repository\XKNT.Entities\obj\Debug\XKNT.Entities.pdb

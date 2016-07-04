@@ -1,0 +1,4 @@
+D:\个人文件\项目\希奎科技\XKNT\Source\Services\XKNT.Services\bin\Debug\XKNT.Services.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Services\XKNT.Services\bin\Debug\XKNT.Services.pdb
+D:\个人文件\项目\希奎科技\XKNT\Source\Services\XKNT.Services\obj\Debug\XKNT.Services.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Services\XKNT.Services\obj\Debug\XKNT.Services.pdb

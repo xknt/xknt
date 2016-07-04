@@ -1,0 +1,5 @@
+D:\个人文件\项目\希奎科技\XKNT\Source\Repository\XKNT.Data\bin\Debug\XKNT.Data.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Repository\XKNT.Data\bin\Debug\XKNT.Data.pdb
+D:\个人文件\项目\希奎科技\XKNT\Source\Repository\XKNT.Data\obj\Debug\XKNT.Data.csprojResolveAssemblyReference.cache
+D:\个人文件\项目\希奎科技\XKNT\Source\Repository\XKNT.Data\obj\Debug\XKNT.Data.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Repository\XKNT.Data\obj\Debug\XKNT.Data.pdb

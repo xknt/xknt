@@ -1,0 +1,9 @@
+D:\个人文件\项目\希奎科技\XKNT\DataBase\XKNT.DB\bin\Debug\XKNT.DB.dacpac
+D:\个人文件\项目\希奎科技\XKNT\DataBase\XKNT.DB\bin\Debug\XKNT.DB.dll
+D:\个人文件\项目\希奎科技\XKNT\DataBase\XKNT.DB\bin\Debug\XKNT.DB.pdb
+D:\个人文件\项目\希奎科技\XKNT\DataBase\XKNT.DB\obj\Debug\Model.xml
+D:\个人文件\项目\希奎科技\XKNT\DataBase\XKNT.DB\obj\Debug\refactor.xml
+D:\个人文件\项目\希奎科技\XKNT\DataBase\XKNT.DB\obj\Debug\postdeploy.sql
+D:\个人文件\项目\希奎科技\XKNT\DataBase\XKNT.DB\obj\Debug\predeploy.sql
+D:\个人文件\项目\希奎科技\XKNT\DataBase\XKNT.DB\obj\Debug\XKNT.DB.dll
+D:\个人文件\项目\希奎科技\XKNT\DataBase\XKNT.DB\obj\Debug\XKNT.DB.pdb

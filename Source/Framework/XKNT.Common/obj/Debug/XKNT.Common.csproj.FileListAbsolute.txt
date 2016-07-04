@@ -1,0 +1,4 @@
+D:\个人文件\项目\希奎科技\XKNT\Source\Framework\XKNT.Common\bin\Debug\XKNT.Common.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Framework\XKNT.Common\bin\Debug\XKNT.Common.pdb
+D:\个人文件\项目\希奎科技\XKNT\Source\Framework\XKNT.Common\obj\Debug\XKNT.Common.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Framework\XKNT.Common\obj\Debug\XKNT.Common.pdb
