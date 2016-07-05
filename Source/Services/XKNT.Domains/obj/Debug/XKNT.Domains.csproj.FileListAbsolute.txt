@@ -1,5 +1,4 @@
 D:\个人文件\项目\希奎科技\XKNT\Source\Services\XKNT.Domains\bin\Debug\XKNT.Domains.dll
 D:\个人文件\项目\希奎科技\XKNT\Source\Services\XKNT.Domains\bin\Debug\XKNT.Domains.pdb
-D:\个人文件\项目\希奎科技\XKNT\Source\Services\XKNT.Domains\obj\Debug\XKNT.Domains.csprojResolveAssemblyReference.cache
 D:\个人文件\项目\希奎科技\XKNT\Source\Services\XKNT.Domains\obj\Debug\XKNT.Domains.dll
 D:\个人文件\项目\希奎科技\XKNT\Source\Services\XKNT.Domains\obj\Debug\XKNT.Domains.pdb

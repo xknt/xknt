@@ -2,3 +2,11 @@ D:\个人文件\项目\希奎科技\XKNT\Source\Framework\XKNT.Common\bin\Debug\
 D:\个人文件\项目\希奎科技\XKNT\Source\Framework\XKNT.Common\bin\Debug\XKNT.Common.pdb
 D:\个人文件\项目\希奎科技\XKNT\Source\Framework\XKNT.Common\obj\Debug\XKNT.Common.dll
 D:\个人文件\项目\希奎科技\XKNT\Source\Framework\XKNT.Common\obj\Debug\XKNT.Common.pdb
+D:\个人文件\项目\希奎科技\XKNT\Source\Framework\XKNT.Common\bin\Debug\EntityFramework.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Framework\XKNT.Common\bin\Debug\System.Web.Mvc.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Framework\XKNT.Common\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Framework\XKNT.Common\bin\Debug\EntityFramework.xml
+D:\个人文件\项目\希奎科技\XKNT\Source\Framework\XKNT.Common\bin\Debug\System.Web.Mvc.xml
+D:\个人文件\项目\希奎科技\XKNT\Source\Framework\XKNT.Common\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\个人文件\项目\希奎科技\XKNT\Source\Framework\XKNT.Common\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Framework\XKNT.Common\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
