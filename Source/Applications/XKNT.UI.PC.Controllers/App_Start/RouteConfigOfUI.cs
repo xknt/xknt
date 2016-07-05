@@ -17,33 +17,33 @@ namespace XKNT.UI.PC.Controllers
             routes.MapRoute(
                 "BizM", // Route name
                 "{Biz}/{controller}/{action}/{id}/{pid}", // URL with parameters
-                new { Biz = "Default", controller = "Home", action = "login" }, // Parameter defaults
+                new { Biz = "Default", controller = "Home", action = "Index" }, // Parameter defaults
                 new { Biz = biz }
             );
 
             routes.MapRoute(
                 "Biz", // Route name
                 "{Biz}/{controller}/{action}/{id}", // URL with parameters
-                new { Biz = "Default", controller = "Home", action = "login", id = UrlParameter.Optional }, // Parameter defaults
+                new { Biz = "Default", controller = "Home", action = "Index", id = UrlParameter.Optional }, // Parameter defaults
                 new { Biz = biz }
             );
             routes.MapRoute(
              "BizQ", // 路由名称//////
              "{Biz}/{controller}/{action}/{queryname}/{*queryvalues}", // 带有参数的 URL
-             new { Biz = "Default", controller = "Home", action = "login", queryname = UrlParameter.Optional, queryvalues = UrlParameter.Optional }, // 参数默认值
+             new { Biz = "Default", controller = "Home", action = "Index", queryname = UrlParameter.Optional, queryvalues = UrlParameter.Optional }, // 参数默认值
              new { Biz = biz }
             );
 
             routes.MapRoute(
                 "Default", // Route name
                 "{controller}/{action}/{id}", // URL with parameters
-                new { controller = "Home", action = "login", id = UrlParameter.Optional } // Parameter defaults
+                new { controller = "Home", action = "Index", id = UrlParameter.Optional } // Parameter defaults
             );
 
             routes.MapRoute(
              "queryvalues", // 路由名称//////
              "{controller}/{action}/{queryname}/{*queryvalues}", // 带有参数的 URL
-             new { controller = "Home", action = "login", queryname = UrlParameter.Optional, queryvalues = UrlParameter.Optional } // 参数默认值
+             new { controller = "Home", action = "Index", queryname = UrlParameter.Optional, queryvalues = UrlParameter.Optional } // 参数默认值
              );
         }
     }
