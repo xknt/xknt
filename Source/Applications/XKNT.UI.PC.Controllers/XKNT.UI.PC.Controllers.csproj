@@ -30,6 +30,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Memcached.ClientLibrary">
+      <HintPath>..\..\ReferenceLib\Memcached.ClientLibrary.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Web" />
@@ -48,7 +51,14 @@
   <ItemGroup>
     <Compile Include="App_Start\Global.asax.cs" />
     <Compile Include="App_Start\RouteConfigOfUI.cs" />
+    <Compile Include="Controllers\Home\HomeController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Framework\XKNT.Common\XKNT.Common.csproj">
+      <Project>{5e9320ae-9498-4bb9-9e61-9caa3da5ee3d}</Project>
+      <Name>XKNT.Common</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

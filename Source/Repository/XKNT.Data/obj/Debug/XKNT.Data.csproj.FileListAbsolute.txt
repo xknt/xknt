@@ -13,3 +13,6 @@ D:\个人文件\项目\希奎科技\XKNT\Source\Repository\XKNT.Data\bin\Debug\M
 D:\个人文件\项目\希奎科技\XKNT\Source\Repository\XKNT.Data\bin\Debug\zh-Hans\EntityFramework.resources.dll
 D:\个人文件\项目\希奎科技\XKNT\Source\Repository\XKNT.Data\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
 D:\个人文件\项目\希奎科技\XKNT\Source\Repository\XKNT.Data\obj\Debug\XKNT.Data.csprojResolveAssemblyReference.cache
+D:\个人文件\项目\希奎科技\XKNT\Source\Repository\XKNT.Data\bin\Debug\Memcached.ClientLibrary.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Repository\XKNT.Data\bin\Debug\log4net.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Repository\XKNT.Data\bin\Debug\ICSharpCode.SharpZipLib.dll
