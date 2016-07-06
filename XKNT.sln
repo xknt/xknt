@@ -21,9 +21,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0203 - Services", "0203 - S
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0204 - Applications", "0204 - Applications", "{FEC48AC9-0451-4E92-A696-F92033E00606}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XKNT.UI.PC.Controllers", "Source\Applications\XKNT.UI.PC.Controllers\XKNT.UI.PC.Controllers.csproj", "{59E2BDB6-A2F8-4296-AB86-144050D74739}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XKNT.Platform.Controllers", "Source\Applications\XKNT.UI.PC.Controllers\XKNT.Platform.Controllers.csproj", "{59E2BDB6-A2F8-4296-AB86-144050D74739}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XKNT.UI.PC", "Source\Applications\XKNT.UI.PC\XKNT.UI.PC.csproj", "{D2280831-585C-43CB-B6C3-C9C6D5EADA63}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XKNT.Platform.UI.PC", "Source\Applications\XKNT.UI.PC\XKNT.Platform.UI.PC.csproj", "{D2280831-585C-43CB-B6C3-C9C6D5EADA63}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XKNT.Services", "Source\Services\XKNT.Services\XKNT.Services.csproj", "{C671E609-E38B-413D-8EE8-6D9D502940A1}"
 EndProject

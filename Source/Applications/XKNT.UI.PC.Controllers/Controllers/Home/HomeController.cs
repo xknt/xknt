@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Web.Mvc;
 using XKNT.Common.Helper;
 
-namespace XKNT.UI.PC.Controllers
+namespace XKNT.Platform.Controllers
 {
     public class HomeController : Controller
     {

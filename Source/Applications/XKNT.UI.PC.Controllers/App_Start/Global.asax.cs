@@ -2,7 +2,7 @@
 using System.Web.Routing;
 using XKNT.UI.PC.Controllers;
 
-namespace XKNT.UI.PC
+namespace XKNT.Platform.UI.PC
 {
     public class MvcApplication : System.Web.HttpApplication
     {
