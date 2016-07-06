@@ -1,0 +1,11 @@
+D:\个人文件\项目\希奎科技\XKNT\Source\Applications\XKNT.Mobile.Controllers\bin\Debug\XKNT.Mobile.Controllers.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Applications\XKNT.Mobile.Controllers\bin\Debug\XKNT.Mobile.Controllers.pdb
+D:\个人文件\项目\希奎科技\XKNT\Source\Applications\XKNT.Mobile.Controllers\bin\Debug\System.Web.Mvc.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Applications\XKNT.Mobile.Controllers\bin\Debug\System.Web.Razor.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Applications\XKNT.Mobile.Controllers\bin\Debug\System.Web.WebPages.Razor.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Applications\XKNT.Mobile.Controllers\bin\Debug\System.Web.WebPages.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Applications\XKNT.Mobile.Controllers\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Applications\XKNT.Mobile.Controllers\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Applications\XKNT.Mobile.Controllers\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\个人文件\项目\希奎科技\XKNT\Source\Applications\XKNT.Mobile.Controllers\obj\Debug\XKNT.Mobile.Controllers.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Applications\XKNT.Mobile.Controllers\obj\Debug\XKNT.Mobile.Controllers.pdb

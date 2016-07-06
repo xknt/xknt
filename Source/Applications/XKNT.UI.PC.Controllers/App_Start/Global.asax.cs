@@ -1,8 +1,8 @@
 ﻿using System.Web.Mvc;
 using System.Web.Routing;
-using XKNT.UI.PC.Controllers;
+using XKNT.Platform.Controllers;
 
-namespace XKNT.UI.PC
+namespace XKNT.Platform.UI.PC
 {
     public class MvcApplication : System.Web.HttpApplication
     {

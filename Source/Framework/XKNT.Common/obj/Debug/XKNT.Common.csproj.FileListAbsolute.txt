@@ -13,4 +13,3 @@ D:\个人文件\项目\希奎科技\XKNT\Source\Framework\XKNT.Common\bin\Debug\
 D:\个人文件\项目\希奎科技\XKNT\Source\Framework\XKNT.Common\bin\Debug\Memcached.ClientLibrary.dll
 D:\个人文件\项目\希奎科技\XKNT\Source\Framework\XKNT.Common\bin\Debug\log4net.dll
 D:\个人文件\项目\希奎科技\XKNT\Source\Framework\XKNT.Common\bin\Debug\ICSharpCode.SharpZipLib.dll
-D:\个人文件\项目\希奎科技\XKNT\Source\Framework\XKNT.Common\obj\Debug\XKNT.Common.csprojResolveAssemblyReference.cache

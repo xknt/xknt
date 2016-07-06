@@ -1,0 +1,9 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/Source/Repository/XKNT.Entities/obj/Debug
+/Source/Services
+/packages
+/XKNT.v12.suo
+/DataBase/XKNT.DB
