@@ -14,7 +14,7 @@ namespace XKNT.UI.PC.Controllers
         public ActionResult index()
         {
             ArrayList al = new ArrayList();
-
+            //
             al.Add("127.0.0.1:11211");
 
             bool result = MemcacheHelper.AddCache(al, "mc", "test", "hello word!", 1);
