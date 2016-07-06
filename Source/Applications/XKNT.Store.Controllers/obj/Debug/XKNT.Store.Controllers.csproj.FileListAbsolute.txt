@@ -1,0 +1,9 @@
+D:\个人文件\项目\希奎科技\XKNT\Source\Applications\XKNT.Store.Controllers\bin\Debug\XKNT.Store.Controllers.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Applications\XKNT.Store.Controllers\bin\Debug\XKNT.Store.Controllers.pdb
+D:\个人文件\项目\希奎科技\XKNT\Source\Applications\XKNT.Store.Controllers\bin\Debug\System.Web.Mvc.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Applications\XKNT.Store.Controllers\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Applications\XKNT.Store.Controllers\bin\Debug\System.Web.Mvc.xml
+D:\个人文件\项目\希奎科技\XKNT\Source\Applications\XKNT.Store.Controllers\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\个人文件\项目\希奎科技\XKNT\Source\Applications\XKNT.Store.Controllers\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Applications\XKNT.Store.Controllers\obj\Debug\XKNT.Store.Controllers.dll
+D:\个人文件\项目\希奎科技\XKNT\Source\Applications\XKNT.Store.Controllers\obj\Debug\XKNT.Store.Controllers.pdb
