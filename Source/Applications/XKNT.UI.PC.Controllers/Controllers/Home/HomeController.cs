@@ -16,7 +16,7 @@ namespace XKNT.Platform.Controllers
             ArrayList al = new ArrayList();
             //
             al.Add("127.0.0.1:11211");
-            //
+            //5555
             bool result = MemcacheHelper.AddCache(al, "mc", "test", "hello word!", 1);
 
             return Content("test的缓存内容为：" + MemcacheHelper.GetCache(al, "mc", "test").ToString());
